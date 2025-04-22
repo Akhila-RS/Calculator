@@ -1,12 +1,4 @@
-body {
-    background: radial-gradient(circle, #000000, #1a1a1a);
-    font-family: 'Segoe UI', sans-serif;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
+
   body {
     background: radial-gradient(circle, #000000, #1a1a1a);
     font-family: 'Segoe UI', sans-serif;
